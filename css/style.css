@@ -627,6 +627,10 @@ i {
   color: #ccc;
 }
 
+.logo {
+  background-repeat: no-repeat;
+}
+
 .footer-link {
   color: #fff;
   line-height: 30px;
